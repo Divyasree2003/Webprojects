@@ -1,2 +1,2 @@
 # Webprojects
-**Developed an E-commerece website and calculator project using HTML ,CSS and JAVASCRIPT**
+**Developed an E-commerece Website and  Arithmetic Web Calculator projects using HTML ,CSS and JAVASCRIPT**
